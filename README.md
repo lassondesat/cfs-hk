@@ -1,7 +1,7 @@
 # cFS: Housekeeping
 
-[![GitHub release](https://img.shields.io/github/release/yusend/cfs-hk.svg)](https://github.com/yusend/cfs-hk/releases)
-
+[![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-hk.svg)](https://github.com/lassondesat/cfs-hk/releases)
+lassondesat
 * [Original README](cfs-hk-app-OSS-readme.txt)
 
 ## Description
@@ -31,5 +31,5 @@ that data can be sent at different rates.
 
 * https://sourceforge.net/projects/cfs-hk/
 
-[osal]: https://github.com/yusend/osal
-[cfe]: https://github.com/yusend/coreflightexec
+[osal]: https://github.com/lassondesat/osal
+[cfe]: https://github.com/lassondesat/coreflightexec
