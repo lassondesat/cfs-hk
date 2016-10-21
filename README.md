@@ -1,7 +1,7 @@
 # cFS: Housekeeping
 
 [![GitHub release](https://img.shields.io/github/release/lassondesat/cfs-hk.svg)](https://github.com/lassondesat/cfs-hk/releases)
-lassondesat
+
 * [Original README](cfs-hk-app-OSS-readme.txt)
 
 ## Description
